@@ -6,4 +6,5 @@ The Cheese&amp;Bread app UI/UX Design
 
 ### Development: https://xd.adobe.com/spec/e9668bff-b331-4810-4f46-6cfde434f1a4-9f57/
 
+</br>
 <img title="Jade Plant Image" src="https://i.pinimg.com/564x/91/2c/13/912c1328f499a4597f9ddde44a934a2d.jpg" width="100%">
