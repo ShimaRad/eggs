@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FDD835;}
+	.st2{fill:#FBC02D;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFA000;}
+	.st5{fill:#A9B1B5;}
+	.st6{fill:#BFC9D1;}
+	.st7{fill:#D7DEE2;}
+	.st8{fill:#EF4B03;}
+</style>
+<g>
+	<path class="st0" d="M0,0h40v40H0V0z"/>
+	<g>
+		<path class="st1" d="M23.8,40c-2.9,0-5.7-1.1-7.9-3.3L15,35.8L30.8,20l0.9,0.9c4.4,4.4,4.4,11.4,0,15.8C29.6,38.9,26.7,40,23.8,40
+			z"/>
+		<path class="st2" d="M22.4,38.7c0.1,0,0.1,0,0.2,0c0.4,0,0.7,0,1.1-0.1v-9.1l6.3,6.3c0.2-0.1,0.3-0.3,0.5-0.4
+			c0.2-0.2,0.3-0.3,0.4-0.5l-6.4-6.4h9.2c0-0.4,0-0.8,0-1.3H23.6v-0.1l-1.4,1.4h0.1L22.4,38.7L22.4,38.7z"/>
+		<path class="st3" d="M27.7,25H29v1.2h-1.3V25z M25,34.4h1.2v1.2H25V34.4z M19.4,35h1.2v1.2h-1.2V35z M30.6,23.1h1.3v1.3h-1.3V23.1
+			z M29.8,30h1.2v1.2h-1.2V30z"/>
+		<path class="st4" d="M31.7,20.9L30.8,20l0,0c4,4.4,3.9,11.2-0.3,15.4c-2.2,2.2-5,3.3-7.9,3.3c-2.7,0-5.4-1-7.6-3l0,0l0.9,0.9
+			c2.2,2.2,5,3.3,7.9,3.3c2.9,0,5.7-1.1,7.9-3.3C36.1,32.4,36.1,25.3,31.7,20.9z"/>
+	</g>
+	<g>
+		<path class="st5" d="M5,8.8h16.3V40H5V8.8z"/>
+		<path class="st6" d="M5,8.8h8V40H5V8.8z"/>
+		<path class="st7" d="M6.7,8.8h12.9v27.1H6.7V8.8z"/>
+		<path class="st4" d="M6.7,16.1h12.9v19.8H6.7V16.1z"/>
+		<g>
+			<path class="st3" d="M13.8,16.1h-2V4c0-2.3,1.9-4,4.4-4h7.6v2h-7.6C15,2,13.8,2.7,13.8,4C13.8,4,13.8,16.1,13.8,16.1z"/>
+			<path class="st8" d="M13.8,16.1h-2v-2.9h2V16.1z M13.8,10.7h-2V7.8h2V10.7z M13.8,5.4h-2V4c0-0.7,0.2-1.3,0.5-1.9l1.7,1
+				c-0.2,0.3-0.2,0.6-0.2,1L13.8,5.4L13.8,5.4z M15.4,2.1l-0.5-1.9C15.3,0.1,15.7,0,16.2,0h1.7v2h-1.7C15.9,2,15.6,2,15.4,2.1z
+				 M23.3,2h-2.9V0h2.9V2z"/>
+		</g>
+		<path class="st3" d="M16.2,22.7h1.7v1.7h-1.7V22.7z M16.2,19.4h1.7v1.7h-1.7V19.4z M16.2,26h1.7v1.7h-1.7V26z"/>
+	</g>
+</g>
+</svg>
